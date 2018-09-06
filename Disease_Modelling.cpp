@@ -6,6 +6,7 @@
 	|					and more. This application is helpful to predict outbreaks  |
 	|					and project the spreading of a given disease				|
 	+-------------------------------------------------------------------------------+
+	
 */
 
 
